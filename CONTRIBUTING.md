@@ -3,10 +3,6 @@
 Thank you for your interest in contributing to 📢 Voice To Notes Maker 🚀.
 This is a fun project built with _Python_ for windows which converts voice to text and save the text in a notes.txt file.
 
-## Demo 🔗
-
-[See Demo](https://next-js-player.vercel.app/)
-
 ## Code of Conduct
 
 By participating in this project, you agree to abide by the Code of Conduct.
