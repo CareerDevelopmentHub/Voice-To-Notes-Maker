@@ -37,7 +37,7 @@ urllib3==1.26.8
 🔴 Clone this repo:
 
 ```
-git clone ...
+git clone https://github.com/CareerDevelopmentHub/Voice-To-Notes-Maker.git
 ```
 
 🔴 Install all the dependencies and packages:
